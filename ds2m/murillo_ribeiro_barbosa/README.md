@@ -2,18 +2,14 @@
 
 ![](./img/captura-whatsApp.png)
 
-[Clique aqui](https://murillobarbosa.github.io/mortal_kombat/) para acessar o site
+[Clique aqui](https://murillobarbosa.github.io/whatsapp/) para acessar o WhatsApp
 
 ---
 
 ## Sobre
-Site do tipo one page para informar sobre a história do Mortal Kombat.
+WhatsApp Clone
 
-O objetivo deste projeto é colocar em prática os conhecimentos, sobre desenvolvimentos de sites, adquiridos no curso do [SENAI JANDIRA](https://jandira.sp.senai.br/).
-
----
-## Rascunho do Figma
-[Clique aqui](https://www.figma.com/file/u1y285OT0uF4JALzj1VHFD/Site%2FJogo?t=OgVwOD87WmuUmK1e-0) para acessar o rascunho!
+O objetivo deste projeto é colocar em prática os conhecimentos, sobre desenvolvimentos em JS, HTML, CSS, adquiridos no curso do [SENAI JANDIRA](https://jandira.sp.senai.br/).
 
 ---
 
@@ -21,9 +17,6 @@ O objetivo deste projeto é colocar em prática os conhecimentos, sobre desenvol
 - HTML5
 - CSS3
 - Responsividade
-- Markdown
-- VLibras
-- Figma
 - JS
 
 ---
