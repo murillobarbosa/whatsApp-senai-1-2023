@@ -6,7 +6,7 @@
 |                     |                        |
 
 
-[Clique aqui](https://murillobarbosa.github.io/whatsapp/) para acessar o WhatsApp
+[Clique aqui](https://murillobarbosa.github.io/WhatsApp/) para acessar o WhatsApp
 
 ---
 
@@ -26,3 +26,4 @@ O objetivo deste projeto é colocar em prática os conhecimentos, sobre desenvol
 ---
 ## Autor
 - [Murillo Barbosa](https://github.com/murillobarbosa)
+# WhatsApp
