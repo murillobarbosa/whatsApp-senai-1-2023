@@ -1,6 +1,10 @@
 # WhatsApp
 
-![](./img/captura-whatsApp.png)
+|      MOBILE         |          DESKTOP       |
+|:-------------------:|:-----------------------:
+|![](./img/captura-mobile.png)|![](./img/captura-whatsApp.png)|
+|                     |                        |
+
 
 [Clique aqui](https://murillobarbosa.github.io/whatsapp/) para acessar o WhatsApp
 
