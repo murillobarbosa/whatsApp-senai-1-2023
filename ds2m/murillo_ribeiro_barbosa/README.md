@@ -6,7 +6,7 @@
 |                     |                        |
 
 
-[Clique aqui](https://murillobarbosa.github.io/WhatsApp/) para acessar o WhatsApp
+[Clique aqui](https://murillobarbosa.github.io/whatsApp/) para acessar o WhatsApp
 
 ---
 
