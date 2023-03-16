@@ -1,0 +1,28 @@
+.container-pesquisa {
+    display: flex;
+    align-items: center;
+    height: 45px;
+    justify-content: space-evenly;
+    border-right: 1px solid #2525252f;
+    border-bottom: 1px solid #2525252f;
+    
+}
+
+.container-pesquisa input {
+    outline: none;
+    border: none;
+    border-radius: 55px;
+    background-color: #bbbbbb3f;
+    height: 70%;
+    width: 80%;
+    padding-left: 20px;
+    font-size: 10px;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.icons-pesquisa {
+    font-size: 1.3rem;
+    color: #fff;
+}
